@@ -1,6 +1,6 @@
 def addition(a, b):
-    """Retourne la somme de a et b test pour push."""
-    return a - b
+    """Retourne la somme de a et b."""
+    return a + b
 
 
 if __name__ == "__main__":
